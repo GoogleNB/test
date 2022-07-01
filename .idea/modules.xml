@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MVC-dome/MVC-dome.iml" filepath="$PROJECT_DIR$/MVC-dome/MVC-dome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC-dome1/SpringMVC-dome1.iml" filepath="$PROJECT_DIR$/SpringMVC-dome1/SpringMVC-dome1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC-dome2/SpringMVC-dome2.iml" filepath="$PROJECT_DIR$/SpringMVC-dome2/SpringMVC-dome2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ajax-dome/ajax-dome.iml" filepath="$PROJECT_DIR$/ajax-dome/ajax-dome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2/demo2.iml" filepath="$PROJECT_DIR$/demo2/demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea-test/idea-test.iml" filepath="$PROJECT_DIR$/idea-test/idea-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-dome/mybatis-dome.iml" filepath="$PROJECT_DIR$/mybatis-dome/mybatis-dome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qq3/qq3.iml" filepath="$PROJECT_DIR$/qq3/qq3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springDemo1/springDemo1.iml" filepath="$PROJECT_DIR$/springDemo1/springDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springFramework-dome1/springFramework-dome1.iml" filepath="$PROJECT_DIR$/springFramework-dome1/springFramework-dome1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springFramework-dome2/springFramework-dome2.iml" filepath="$PROJECT_DIR$/springFramework-dome2/springFramework-dome2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tttt/java_Lianxi/tttt.iml" filepath="$PROJECT_DIR$/tttt/java_Lianxi/tttt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-dome/web-dome.iml" filepath="$PROJECT_DIR$/web-dome/web-dome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web2/web2.iml" filepath="$PROJECT_DIR$/web2/web2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web3/web3.iml" filepath="$PROJECT_DIR$/web3/web3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webweb/webweb.iml" filepath="$PROJECT_DIR$/webweb/webweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmvc01/xmvc01.iml" filepath="$PROJECT_DIR$/xmvc01/xmvc01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yi-jia-x/yi-jia-x.iml" filepath="$PROJECT_DIR$/yi-jia-x/yi-jia-x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zifuhua_M-master/zifuhua_M-master.iml" filepath="$PROJECT_DIR$/zifuhua_M-master/zifuhua_M-master.iml" />
+    </modules>
+  </component>
+</project>

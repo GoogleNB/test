@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<form action="">
+    品牌名称 <input name="t1" type="text">
+    企业名称 <input name="t2" type="text">
+    排序 <input name="t3" type="text">
+    简述信息 <input name="t4" type="text">
+    状态 <input name="t5" type="text">
+    <input type="button" name="s1" id="s1">
+</form>
+<script>
+    let s1 = document.getElementById("s1").onclick=function () {
+        var xhttp;
+        if (window.XMLHttpRequest) {
+            xhttp = new XMLHttpRequest();
+        } else {
+            // code for IE6, IE5
+            xhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        let t1 = document.getElementsByTagName("input")[0].value.trim();
+        let t2 = document.getElementsByTagName("input")[1].value.trim();
+        let t3 = document.getElementsByTagName("input")[2].value.trim();
+        let t4 = document.getElementsByTagName("input")[3].value.trim();
+        let t5 = document.getElementsByTagName("input")[4].value.trim();
+
+
+        //定义json对象
+        var json1 = {name: t1, companyName: t2, ordered: t3, description: t4, status: t5}
+        var json2 = JSON.stringify(json1)
+        //2.发送请求
+        xhttp.open("post", "http://localhost:8080/addServlet", true);
+        // xhttp.setRequestHeader("Content-type","application/json;charset=UTF-8")
+        xhttp.send(json2);
+
+        //3.获取相应
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                if (this.responseText === "success") {
+                    location.replace("http://localhost:8080/selectAllServlet")
+                }
+            }
+        };
+    }
+</script>
+</body>
+</html>

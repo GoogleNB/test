@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mapper.UserMapper">
+    <insert id="insertwang">
+        INSERT INTO book.kaoshi (姓名, 性别, 年龄) VALUES ('张','男',5)
+    </insert>
+
+    <select id="selectBlog" resultType="com.User"> select 姓名 name,性别 sex,年龄 old from kaoshi where 姓名 = '空洞骑士';</select>
+</mapper>

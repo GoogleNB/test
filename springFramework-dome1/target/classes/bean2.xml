@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!--            内部bean写法-->
+            <bean id="emp" class="com.spring5.Emp">
+                <property name="name" value="打"></property>
+                <property name="age" value="23"></property>
+                <property name="dept">
+                   <bean class="com.spring5.Dept">
+                       <property name="name" value="研发部"></property>
+                   </bean>
+                </property>
+            </bean>
+
+</beans>

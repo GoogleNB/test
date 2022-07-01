@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/IdeaProjects/eBuy_" />
+    <file type="web" url="file://$PROJECT_DIR$/demo2" />
+    <file type="web" url="file://$PROJECT_DIR$/MVC-dome" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMVC-dome1" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMVC-dome2" />
+    <file type="web" url="file://$PROJECT_DIR$/TTTTT" />
+    <file type="web" url="file://$PROJECT_DIR$/untitled1" />
+    <file type="web" url="file://$PROJECT_DIR$/web-dome" />
+    <file type="web" url="file://$PROJECT_DIR$/web-test" />
+    <file type="web" url="file://$PROJECT_DIR$/web2" />
+    <file type="web" url="file://$PROJECT_DIR$/xmvc01" />
+    <file type="web" url="file://$PROJECT_DIR$/yi-jia-x" />
+    <file type="web" url="file://$PROJECT_DIR$/yyyy" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$USER_HOME$/Desktop/Test/zifuhua_M-master/zifuhua_M-master/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-dome/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled1/untitled1/pom.xml" />
+        <option value="$PROJECT_DIR$/web2/pom.xml" />
+        <option value="$PROJECT_DIR$/web-dome/pom.xml" />
+        <option value="$PROJECT_DIR$/zifuhua_M-master/pom.xml" />
+        <option value="$PROJECT_DIR$/tttt/pom.xml" />
+        <option value="$PROJECT_DIR$/ajax-dome/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC-dome1/pom.xml" />
+        <option value="$PROJECT_DIR$/MVC-dome/pom.xml" />
+        <option value="$PROJECT_DIR$/springDemo1/pom.xml" />
+        <option value="$PROJECT_DIR$/demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/springFramework-dome1/pom.xml" />
+        <option value="$PROJECT_DIR$/yi-jia-x/pom.xml" />
+        <option value="$PROJECT_DIR$/springFramework-dome2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC-dome2/pom.xml" />
+        <option value="$PROJECT_DIR$/xmvc01/pom.xml" />
+        <option value="$PROJECT_DIR$/webweb/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringMVC-dome1" />
+        <module name="SpringMVC-dome2" />
+        <module name="ajax-dome" />
+        <module name="MVC-dome" />
+        <module name="zifuhua_M-master" />
+        <module name="web2" />
+        <module name="springFramework-dome2" />
+        <module name="webweb" />
+        <module name="springFramework-dome1" />
+        <module name="springDemo1" />
+        <module name="untitled1" />
+        <module name="tttt" />
+        <module name="mybatis-dome" />
+        <module name="web-dome" />
+        <module name="yi-jia-x" />
+        <module name="demo2" />
+        <module name="xmvc01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="ajax-dome" target="11" />
+      <module name="demo2" target="11" />
+      <module name="MVC-dome" target="11" />
+      <module name="mybatis-dome" target="11" />
+      <module name="qq3" target="8" />
+      <module name="springDemo1" target="11" />
+      <module name="springFramework-dome1" target="11" />
+      <module name="springFramework-dome2" target="11" />
+      <module name="SpringMVC-dome1" target="11" />
+      <module name="SpringMVC-dome2" target="11" />
+      <module name="tttt" target="11" />
+      <module name="untitled1" target="11" />
+      <module name="web-dome" target="11" />
+      <module name="web2" target="1.7" />
+      <module name="webweb" target="11" />
+      <module name="xmvc01" target="1.8" />
+      <module name="yi-jia-x" target="11" />
+      <module name="zifuhua_M-master" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo2" options="-parameters" />
+      <module name="springDemo1" options="-parameters" />
+    </option>
+  </component>
+</project>

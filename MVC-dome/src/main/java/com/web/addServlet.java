@@ -1,0 +1,29 @@
+package com.web;
+
+import com.alibaba.fastjson.JSON;
+import com.pojo.Brand;
+import com.service.BrandService;
+
+import javax.servlet.*;
+import javax.servlet.http.*;
+import javax.servlet.annotation.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+
+@WebServlet(name = "addServlet", value = "/addServlet")
+public class addServlet extends HttpServlet {
+    @Override
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
+    }
+
+    @Override
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        BufferedReader reader = request.getReader();
+        String s = reader.readLine();
+        Brand brand = JSON.parseObject(s, Brand.class);
+        BrandService brandService = new BrandService();
+        brandService.add(brand);
+        response.getWriter().write("success");
+    }
+}

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zifuhua_M-master/lib/customizer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/zifuhua_M-master/lib/mediaplayer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/zifuhua_M-master/lib/Jim2mov.jar!/" />
+      <root url="jar://$PROJECT_DIR$/zifuhua_M-master/lib/jmf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/zifuhua_M-master/lib/multiplayer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

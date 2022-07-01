@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/MVC-dome/web/mmm.jsp" value="file://$PROJECT_DIR$/MVC-dome/web" />
+        <entry key="file://$PROJECT_DIR$/qq3/web/shop/my_cart.jsp" value="file://$PROJECT_DIR$/qq3/web/shop" />
+        <entry key="file://$PROJECT_DIR$/tttt/web/day3_24one.jsp" value="file://$PROJECT_DIR$/tttt/web" />
+        <entry key="file://$PROJECT_DIR$/tttt/web/eee.jsp" value="file://$PROJECT_DIR$/tttt/web" />
+        <entry key="file://$PROJECT_DIR$/tttt/web/qq2.jsp" value="file://$PROJECT_DIR$/tttt/web" />
+        <entry key="file://$PROJECT_DIR$/tttt/web/tiaozhuan.jsp" value="file://$PROJECT_DIR$/tttt/web" />
+        <entry key="file://$PROJECT_DIR$/untitled1/webapp/index.html" value="file://$PROJECT_DIR$/untitled1/webapp" />
+        <entry key="file://$PROJECT_DIR$/xmvc01/src/main/webapp/WEB-INF/jsp/users.jsp" value="file://$PROJECT_DIR$/xmvc01/src/main/webapp/WEB-INF/jsp" />
+      </map>
+    </option>
+  </component>
+</project>
